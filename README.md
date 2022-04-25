@@ -16,7 +16,7 @@
 <p align="center">
     <a href="https://github.com/starladyrie">
         <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=starladyrie&hide=stars&count_private=true&show_icons=true&theme=onedark" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starladyrie&count_private=true&hide=smalltalk&theme=onedark&layout=compact" /> 
+        <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starladyrie&count_private=true&hide=smalltalk&theme=onedark&layout=compact" /> 
     </a>
 </p>
 
