@@ -5,11 +5,14 @@
 - 📚 Bachelor Degree in Computer Science at the [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
 - 🔧 Junior developer at Dataway
 - 🌱 Front-end and UX/UI
+- 🐞 Bug Finder
+- 🤖 Chatbots and Machine Learning enthusiast
 - 📫 How to reach me: marrielly@alunos.utfpr.edu.br
 
 ### 💻 Technologies:
 - **Advanced:** Vue.js | Nuxt.js | HTML | CSS | C/C++ 
 - **Intermediary:** Flutter | Angular | C#
+- **Newbie:** React
 - **Currently learning:** Python 
 
 ### 🏆 Github Stats:
