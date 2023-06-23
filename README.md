@@ -3,7 +3,7 @@
 ## ✨ AKA Elly! ✨
 - 🧚‍♀ She/Her
 - 📚 Bachelor Degree in Computer Science at the [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
-- 🔧 Junior developer at Dataway
+- 🔧 Mid Frontend Developer at Huggy
 - 🌱 Front-end and UX/UI
 - 🐞 Bug Finder
 - 🤖 Chatbots and Machine Learning enthusiast
