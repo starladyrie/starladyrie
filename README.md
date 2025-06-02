@@ -3,9 +3,8 @@
 ## ✨ AKA Elly! ✨
 - 🧚‍♀ She/Her
 - 📚 Bachelor Degree in Computer Science at the [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
-- 🔧 Mid Frontend Developer at Huggy
+- 🔧 Frontend Developer at Petlove
 - 🌱 Front-end and UX/UI
-- 🐞 Bug Finder
 - 🤖 Chatbots and Machine Learning enthusiast
 - 📫 How to reach me: marrielly@alunos.utfpr.edu.br
 
